@@ -5,7 +5,7 @@
 	* STEP 1
 	* Let's rename our application and set a default height for the gadget to 250 in ModulePrefs
 	-->
-	<ModulePrefs title="Tutorial_02_UI_Setup" height="250">
+	<ModulePrefs title="Test app" height="250">
 	</ModulePrefs>
 	<Content type="html">
 		<![CDATA[
@@ -14,7 +14,7 @@
 			* Add some basic HTML structure to our gadget
 			-->
 			<div id="app">
-				<div id="header"><h2>OpenSocial Tutorial Tool</h2></div>
+				<div id="header"><h2>Hello world!</h2></div>
 				<div id="body"></div>
 				<div id="footer"></div>
 			</div>
