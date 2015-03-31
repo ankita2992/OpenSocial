@@ -1,0 +1,12 @@
+<!DOCTYPE html> 
+ 
+ 
+<!--  
+ STEP 2 
+* Add some basic HTML structure to our gadget 
+--> 
+<div id="app"> 
+	<div id="header"><h2>OpenSocial Tutorial Tool</h2></div> 
+	<div id="body"></div> 
+ 	<div id="footer"></div> 
+</div> 
